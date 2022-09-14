@@ -22,7 +22,8 @@
     "eject": "react-scripts eject",
     "server1": "json-server -p3001 --watch cautrucmonhoc.json",
     "server2": "json-server -p3002 --watch nganh.json",
-    "server3": "json-server -p3003 --watch result.json"
+    "server3": "json-server -p3003 --watch result.json",
+    "dev": "concurrently --kill-others \"npm run server1\" \"npm run server2\" \"npm run server3\" \"react-scripts start\""
   },
   "eslintConfig": {
     "extends": [
@@ -43,6 +44,7 @@
     ]
   },
   "devDependencies": {
+    "concurrently": "^7.4.0",
     "json-server": "^0.17.0",
     "react-router-dom": "^6.3.0"
   }
