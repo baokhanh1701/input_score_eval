@@ -1,0 +1,114 @@
+/* Color */
+
+.hover-light:hover {
+    filter: brightness(125%);
+}
+
+.hover-dark:hover {
+    filter: brightness(75%);
+}
+
+.text-white {
+    color: white;
+}
+
+.text-black {
+    color: black;
+}
+
+.text-bright-black {
+    color: #575757;
+}
+
+.text-red {
+    color: #c0392b;
+}
+
+.text-pink {
+    color: #e84393; 
+}
+.text-green {
+    color: #16a085;
+}
+
+.text-blue {
+    color: #0ba1e7;
+}
+
+.text-yellow {
+    color: #f39c12;
+}
+
+.bg-bright-black {
+    background: #575757;
+}
+
+.bg-white {
+    background: white;
+}
+
+.bg-black {
+    background: black;
+}
+
+.bg-flat-black {
+    background: #141414;
+}
+
+.bg-blue {
+    background: #0ba1e7;
+}
+
+.bg-light-black {
+    background: #818181;
+}
+
+.bg-light-blue {
+    background: #aac2cf;
+}
+
+.bg-light-gray {
+    background: #dfdfdf;
+}
+
+.bg-yellow {
+    background: #f39c12;
+}
+
+.bg-orange {
+    background: #d35400;
+}
+
+.bg-green {
+    background: #16a085;
+}
+
+.bg-transparent {
+    background: transparent;
+}
+
+.bg-transparent-hover:hover {
+    background: #333333;
+}
+
+.bg-red {
+    background: #c0392b;
+}
+
+
+.shadow-hover:hover {
+    border-color: transparent;
+    box-shadow: 0 10px 10px 0 #00000033, 0 10px 40px 0 #00000030;
+}
+
+.bg-dark-blue {
+    background: #150050;
+}
+
+.bg-dark-purple {
+    background: #3F0071;
+}
+
+.bg-medium-purple {
+    background: #610094;
+}

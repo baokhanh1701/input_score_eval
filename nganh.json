@@ -1,0 +1,2451 @@
+{ "nganh": [
+  {
+    "MADONVI": "BD",
+    "TENDONVI": "Trung tâm đào tạo Bảo dưỡng công nghiệp",
+    "MANGANH": "BDC",
+    "TENCTDT": "Ngành Bảo dưỡng Công nghiệp",
+    "NAMAPDUNG": 2014,
+    "LINK": "http://www.aao.hcmut.edu.vn/index.php?route=catalog/chitietsv&path=59_62&tid=477"
+  },
+  {
+    "MADONVI": "CK",
+    "TENDONVI": "Khoa Cơ khí",
+    "MANGANH": "CK1",
+    "TENCTDT": "Ngành Kỹ thuật Cơ khí",
+    "NAMAPDUNG": 2014,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "CK",
+    "TENDONVI": "Khoa Cơ khí",
+    "MANGANH": "CNM",
+    "TENCTDT": "Ngành Công nghệ May",
+    "NAMAPDUNG": 2014,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "CK",
+    "TENDONVI": "Khoa Cơ khí",
+    "MANGANH": "COD",
+    "TENCTDT": "Ngành Kỹ thuật Cơ điện tử",
+    "NAMAPDUNG": 2014,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "CK",
+    "TENDONVI": "Khoa Cơ khí",
+    "MANGANH": "DET",
+    "TENCTDT": "Ngành Kỹ thuật Dệt",
+    "NAMAPDUNG": 2014,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "CK",
+    "TENDONVI": "Khoa Cơ khí",
+    "MANGANH": "KTH",
+    "TENCTDT": "Ngành Kỹ thuật Hệ thống Công nghiệp",
+    "NAMAPDUNG": 2014,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "CK",
+    "TENDONVI": "Khoa Cơ khí",
+    "MANGANH": "NL1",
+    "TENCTDT": "Ngành Kỹ thuật Nhiệt",
+    "NAMAPDUNG": 2014,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "DC",
+    "TENDONVI": "Khoa Kỹ thuật Địa chất và Dầu khí",
+    "MANGANH": "DC1",
+    "TENCTDT": "Ngành Kỹ thuật Địa chất",
+    "NAMAPDUNG": 2014,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "DC",
+    "TENDONVI": "Khoa Kỹ thuật Địa chất và Dầu khí",
+    "MANGANH": "DK1",
+    "TENCTDT": "Ngành Kỹ thuật Dầu khí",
+    "NAMAPDUNG": 2014,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "DD",
+    "TENDONVI": "Khoa Điện - Điện tử",
+    "MANGANH": "DTH",
+    "TENCTDT": "Ngành Kỹ thuật Điều khiển và Tự động hóa",
+    "NAMAPDUNG": 2014,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "DD",
+    "TENDONVI": "Khoa Điện - Điện tử",
+    "MANGANH": "DTT",
+    "TENCTDT": "Ngành Kỹ thuật Điện tử - Truyền thông",
+    "NAMAPDUNG": 2014,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "DD",
+    "TENDONVI": "Khoa Điện - Điện tử",
+    "MANGANH": "KDU",
+    "TENCTDT": "Ngành Kỹ thuật Điện - Điện tử",
+    "NAMAPDUNG": 2014,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "DD",
+    "TENDONVI": "Khoa Điện - Điện tử",
+    "MANGANH": "HTDVHVL",
+    "TENCTDT": "Hệ thống điện(Vừa Làm Vừa Học)",
+    "NAMAPDUNG": 2014,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "GT",
+    "TENDONVI": "Khoa Kỹ thuật Giao thông",
+    "MANGANH": "HKG",
+    "TENCTDT": "Ngành Kỹ thuật Hàng không",
+    "NAMAPDUNG": 2014,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "GT",
+    "TENDONVI": "Khoa Kỹ thuật Giao thông",
+    "MANGANH": "OTO",
+    "TENCTDT": "Ngành Công nghệ Kỹ thuật Ô tô",
+    "NAMAPDUNG": 2014,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "GT",
+    "TENDONVI": "Khoa Kỹ thuật Giao thông",
+    "MANGANH": "TAU",
+    "TENCTDT": "Ngành Kỹ thuật Tàu thủy",
+    "NAMAPDUNG": 2014,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "HC",
+    "TENDONVI": "Khoa Kỹ thuật Hóa học",
+    "MANGANH": "CSH",
+    "TENCTDT": "Ngành Công nghệ Sinh học",
+    "NAMAPDUNG": 2014,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "HC",
+    "TENDONVI": "Khoa Kỹ thuật Hóa học",
+    "MANGANH": "HC1",
+    "TENCTDT": "Ngành Kỹ thuật Hóa học",
+    "NAMAPDUNG": 2014,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "HC",
+    "TENDONVI": "Khoa Kỹ thuật Hóa học",
+    "MANGANH": "HTP",
+    "TENCTDT": "Ngành Công nghệ Thực phẩm",
+    "NAMAPDUNG": 2014,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "MO",
+    "TENDONVI": "Khoa Môi trường và Tài nguyên",
+    "MANGANH": "KMT",
+    "TENCTDT": "Ngành Kỹ thuật Môi trường",
+    "NAMAPDUNG": 2014,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "MO",
+    "TENDONVI": "Khoa Môi trường và Tài nguyên",
+    "MANGANH": "QM1",
+    "TENCTDT": "Ngành Quản lý Tài nguyên và Môi trường",
+    "NAMAPDUNG": 2014,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "MT",
+    "TENDONVI": "Khoa Khoa học và Kỹ thuật Máy tính",
+    "MANGANH": "KHM",
+    "TENCTDT": "Ngành Khoa học Máy tính",
+    "NAMAPDUNG": 2014,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "MT",
+    "TENDONVI": "Khoa Khoa học và Kỹ thuật Máy tính",
+    "MANGANH": "KTM",
+    "TENCTDT": "Ngành Kỹ thuật Máy tính",
+    "NAMAPDUNG": 2014,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "MT",
+    "TENDONVI": "Khoa Khoa học và Kỹ thuật Máy tính",
+    "MANGANH": "CNTTVHVL",
+    "TENCTDT": "Ngành công nghệ thông tin (Vừa Làm Vừa Học)",
+    "NAMAPDUNG": 2014,
+    "LINK": "http://www.aao.hcmut.edu.vn/index.php?route=catalog/chitietsv&path=59_62&tid=1380"
+  },
+  {
+    "MADONVI": "QL",
+    "TENDONVI": "Khoa Quản lý Công nghiệp",
+    "MANGANH": "QCN",
+    "TENCTDT": "Ngành Quản lý Công nghiệp",
+    "NAMAPDUNG": 2014,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "UD",
+    "TENDONVI": "Khoa Khoa học Ứng dụng",
+    "MANGANH": "CKT",
+    "TENCTDT": "Ngành Cơ Kỹ thuật",
+    "NAMAPDUNG": 2014,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "UD",
+    "TENDONVI": "Khoa Khoa học Ứng dụng",
+    "MANGANH": "VLY",
+    "TENCTDT": "Ngành Vật lý Kỹ thuật",
+    "NAMAPDUNG": 2014,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "VL",
+    "TENDONVI": "Khoa Công nghệ Vật Liệu",
+    "MANGANH": "VL1",
+    "TENCTDT": "Ngành Kỹ thuật Vật liệu",
+    "NAMAPDUNG": 2014,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "XD",
+    "TENDONVI": "Khoa Kỹ thuật Xây dựng",
+    "MANGANH": "CB1",
+    "TENCTDT": "Ngành Kỹ thuật Công trình Biển",
+    "NAMAPDUNG": 2014,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "XD",
+    "TENDONVI": "Khoa Kỹ thuật Xây dựng",
+    "MANGANH": "COS",
+    "TENCTDT": "Ngành Kỹ thuật Cơ sở Hạ tầng",
+    "NAMAPDUNG": 2014,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "XD",
+    "TENDONVI": "Khoa Kỹ thuật Xây dựng",
+    "MANGANH": "CVX",
+    "TENCTDT": "Ngành Công nghệ Kỹ thuật Vật liệu Xây dựng",
+    "NAMAPDUNG": 2014,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "XD",
+    "TENDONVI": "Khoa Kỹ thuật Xây dựng",
+    "MANGANH": "KCX",
+    "TENCTDT": "Ngành Kỹ thuật Công trình Xây dựng",
+    "NAMAPDUNG": 2014,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "XD",
+    "TENDONVI": "Khoa Kỹ thuật Xây dựng",
+    "MANGANH": "KTR",
+    "TENCTDT": "Ngành Kiến trúc",
+    "NAMAPDUNG": 2014,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "XD",
+    "TENDONVI": "Khoa Kỹ thuật Xây dựng",
+    "MANGANH": "TDI",
+    "TENCTDT": "Ngành Kỹ thuật Trắc địa - Bản đồ",
+    "NAMAPDUNG": 2014,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "XD",
+    "TENDONVI": "Khoa Kỹ thuật Xây dựng",
+    "MANGANH": "THU",
+    "TENCTDT": "Ngành Kỹ thuật Công trình Thủy",
+    "NAMAPDUNG": 2014,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "XD",
+    "TENDONVI": "Khoa Kỹ thuật Xây dựng",
+    "MANGANH": "XGT",
+    "TENCTDT": "Ngành Kỹ thuật Xây dựng Công trình Giao thông",
+    "NAMAPDUNG": 2014,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "BD",
+    "TENDONVI": "Trung tâm đào tạo Bảo dưỡng công nghiệp",
+    "MANGANH": "BDC",
+    "TENCTDT": "Ngành Bảo dưỡng Công nghiệp",
+    "NAMAPDUNG": 2015,
+    "LINK": "http://www.aao.hcmut.edu.vn/index.php?route=catalog/chitietsv&path=59_62&tid=477"
+  },
+  {
+    "MADONVI": "CK",
+    "TENDONVI": "Khoa Cơ khí",
+    "MANGANH": "CK1",
+    "TENCTDT": "Ngành Kỹ thuật Cơ khí",
+    "NAMAPDUNG": 2015,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "CK",
+    "TENDONVI": "Khoa Cơ khí",
+    "MANGANH": "CNM",
+    "TENCTDT": "Ngành Công nghệ May",
+    "NAMAPDUNG": 2015,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "CK",
+    "TENDONVI": "Khoa Cơ khí",
+    "MANGANH": "COD",
+    "TENCTDT": "Ngành Kỹ thuật Cơ điện tử",
+    "NAMAPDUNG": 2015,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "CK",
+    "TENDONVI": "Khoa Cơ khí",
+    "MANGANH": "DET",
+    "TENCTDT": "Ngành Kỹ thuật Dệt",
+    "NAMAPDUNG": 2015,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "CK",
+    "TENDONVI": "Khoa Cơ khí",
+    "MANGANH": "KTH",
+    "TENCTDT": "Ngành Kỹ thuật Hệ thống Công nghiệp",
+    "NAMAPDUNG": 2015,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "CK",
+    "TENDONVI": "Khoa Cơ khí",
+    "MANGANH": "NL1",
+    "TENCTDT": "Ngành Kỹ thuật Nhiệt",
+    "NAMAPDUNG": 2015,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "DC",
+    "TENDONVI": "Khoa Kỹ thuật Địa chất và Dầu khí",
+    "MANGANH": "DC1",
+    "TENCTDT": "Ngành Kỹ thuật Địa chất",
+    "NAMAPDUNG": 2015,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "DC",
+    "TENDONVI": "Khoa Kỹ thuật Địa chất và Dầu khí",
+    "MANGANH": "DK1",
+    "TENCTDT": "Ngành Kỹ thuật Dầu khí",
+    "NAMAPDUNG": 2015,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "DD",
+    "TENDONVI": "Khoa Điện - Điện tử",
+    "MANGANH": "DTH",
+    "TENCTDT": "Ngành Kỹ thuật Điều khiển và Tự động hóa",
+    "NAMAPDUNG": 2015,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "DD",
+    "TENDONVI": "Khoa Điện - Điện tử",
+    "MANGANH": "DTT",
+    "TENCTDT": "Ngành Kỹ thuật Điện tử - Truyền thông",
+    "NAMAPDUNG": 2015,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "DD",
+    "TENDONVI": "Khoa Điện - Điện tử",
+    "MANGANH": "KDU",
+    "TENCTDT": "Ngành Kỹ thuật Điện - Điện tử",
+    "NAMAPDUNG": 2015,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "GT",
+    "TENDONVI": "Khoa Kỹ thuật Giao thông",
+    "MANGANH": "HKG",
+    "TENCTDT": "Ngành Kỹ thuật Hàng không",
+    "NAMAPDUNG": 2015,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "GT",
+    "TENDONVI": "Khoa Kỹ thuật Giao thông",
+    "MANGANH": "OTO",
+    "TENCTDT": "Ngành Công nghệ Kỹ thuật Ô tô",
+    "NAMAPDUNG": 2015,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "GT",
+    "TENDONVI": "Khoa Kỹ thuật Giao thông",
+    "MANGANH": "TAU",
+    "TENCTDT": "Ngành Kỹ thuật Tàu thủy",
+    "NAMAPDUNG": 2015,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "HC",
+    "TENDONVI": "Khoa Kỹ thuật Hóa học",
+    "MANGANH": "CSH",
+    "TENCTDT": "Ngành Công nghệ Sinh học",
+    "NAMAPDUNG": 2015,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "HC",
+    "TENDONVI": "Khoa Kỹ thuật Hóa học",
+    "MANGANH": "HC1",
+    "TENCTDT": "Ngành Kỹ thuật Hóa học",
+    "NAMAPDUNG": 2015,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "HC",
+    "TENDONVI": "Khoa Kỹ thuật Hóa học",
+    "MANGANH": "HTP",
+    "TENCTDT": "Ngành Công nghệ Thực phẩm",
+    "NAMAPDUNG": 2015,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "MO",
+    "TENDONVI": "Khoa Môi trường và Tài nguyên",
+    "MANGANH": "KMT",
+    "TENCTDT": "Ngành Kỹ thuật Môi trường",
+    "NAMAPDUNG": 2015,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "MO",
+    "TENDONVI": "Khoa Môi trường và Tài nguyên",
+    "MANGANH": "QM1",
+    "TENCTDT": "Ngành Quản lý Tài nguyên và Môi trường",
+    "NAMAPDUNG": 2015,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "MT",
+    "TENDONVI": "Khoa Khoa học và Kỹ thuật Máy tính",
+    "MANGANH": "KHM",
+    "TENCTDT": "Ngành Khoa học Máy tính",
+    "NAMAPDUNG": 2015,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "MT",
+    "TENDONVI": "Khoa Khoa học và Kỹ thuật Máy tính",
+    "MANGANH": "KTM",
+    "TENCTDT": "Ngành Kỹ thuật Máy tính",
+    "NAMAPDUNG": 2015,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "MT",
+    "TENDONVI": "Khoa Khoa học và Kỹ thuật Máy tính",
+    "MANGANH": "CNTTVHVL",
+    "TENCTDT": "Ngành công nghệ thông tin (Vừa Làm Vừa Học)",
+    "NAMAPDUNG": 2015,
+    "LINK": "http://www.aao.hcmut.edu.vn/index.php?route=catalog/chitietsv&path=59_62&tid=1380"
+  },
+  {
+    "MADONVI": "QL",
+    "TENDONVI": "Khoa Quản lý Công nghiệp",
+    "MANGANH": "QCN",
+    "TENCTDT": "Ngành Quản lý Công nghiệp",
+    "NAMAPDUNG": 2015,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "UD",
+    "TENDONVI": "Khoa Khoa học Ứng dụng",
+    "MANGANH": "CKT",
+    "TENCTDT": "Ngành Cơ Kỹ thuật",
+    "NAMAPDUNG": 2015,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "UD",
+    "TENDONVI": "Khoa Khoa học Ứng dụng",
+    "MANGANH": "VLY",
+    "TENCTDT": "Ngành Vật lý Kỹ thuật",
+    "NAMAPDUNG": 2015,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "VL",
+    "TENDONVI": "Khoa Công nghệ Vật Liệu",
+    "MANGANH": "VL1",
+    "TENCTDT": "Ngành Kỹ thuật Vật liệu",
+    "NAMAPDUNG": 2015,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "XD",
+    "TENDONVI": "Khoa Kỹ thuật Xây dựng",
+    "MANGANH": "CB1",
+    "TENCTDT": "Ngành Kỹ thuật Công trình Biển",
+    "NAMAPDUNG": 2015,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "XD",
+    "TENDONVI": "Khoa Kỹ thuật Xây dựng",
+    "MANGANH": "COS",
+    "TENCTDT": "Ngành Kỹ thuật Cơ sở Hạ tầng",
+    "NAMAPDUNG": 2015,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "XD",
+    "TENDONVI": "Khoa Kỹ thuật Xây dựng",
+    "MANGANH": "CVX",
+    "TENCTDT": "Ngành Công nghệ Kỹ thuật Vật liệu Xây dựng",
+    "NAMAPDUNG": 2015,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "XD",
+    "TENDONVI": "Khoa Kỹ thuật Xây dựng",
+    "MANGANH": "KCX",
+    "TENCTDT": "Ngành Kỹ thuật Công trình Xây dựng",
+    "NAMAPDUNG": 2015,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "XD",
+    "TENDONVI": "Khoa Kỹ thuật Xây dựng",
+    "MANGANH": "KTR",
+    "TENCTDT": "Ngành Kiến trúc",
+    "NAMAPDUNG": 2015,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "XD",
+    "TENDONVI": "Khoa Kỹ thuật Xây dựng",
+    "MANGANH": "TDI",
+    "TENCTDT": "Ngành Kỹ thuật Trắc địa - Bản đồ",
+    "NAMAPDUNG": 2015,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "XD",
+    "TENDONVI": "Khoa Kỹ thuật Xây dựng",
+    "MANGANH": "THU",
+    "TENCTDT": "Ngành Kỹ thuật Công trình Thủy",
+    "NAMAPDUNG": 2015,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "XD",
+    "TENDONVI": "Khoa Kỹ thuật Xây dựng",
+    "MANGANH": "XGT",
+    "TENCTDT": "Ngành Kỹ thuật Xây dựng Công trình Giao thông",
+    "NAMAPDUNG": 2015,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "BD",
+    "TENDONVI": "Trung tâm đào tạo Bảo dưỡng công nghiệp",
+    "MANGANH": "BDC",
+    "TENCTDT": "Ngành Bảo dưỡng Công nghiệp",
+    "NAMAPDUNG": 2016,
+    "LINK": "http://www.aao.hcmut.edu.vn/index.php?route=catalog/chitietsv&path=59_62&tid=1409"
+  },
+  {
+    "MADONVI": "CK",
+    "TENDONVI": "Khoa Cơ khí",
+    "MANGANH": "CK1",
+    "TENCTDT": "Ngành Kỹ thuật Cơ khí",
+    "NAMAPDUNG": 2016,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "CK",
+    "TENDONVI": "Khoa Cơ khí",
+    "MANGANH": "CNM",
+    "TENCTDT": "Ngành Công nghệ May",
+    "NAMAPDUNG": 2016,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "CK",
+    "TENDONVI": "Khoa Cơ khí",
+    "MANGANH": "COD",
+    "TENCTDT": "Ngành Kỹ thuật Cơ điện tử",
+    "NAMAPDUNG": 2016,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "CK",
+    "TENDONVI": "Khoa Cơ khí",
+    "MANGANH": "DET",
+    "TENCTDT": "Ngành Kỹ thuật Dệt",
+    "NAMAPDUNG": 2016,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "CK",
+    "TENDONVI": "Khoa Cơ khí",
+    "MANGANH": "KTH",
+    "TENCTDT": "Ngành Kỹ thuật Hệ thống Công nghiệp",
+    "NAMAPDUNG": 2016,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "CK",
+    "TENDONVI": "Khoa Cơ khí",
+    "MANGANH": "NL1",
+    "TENCTDT": "Ngành Kỹ thuật Nhiệt",
+    "NAMAPDUNG": 2016,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "DC",
+    "TENDONVI": "Khoa Kỹ thuật Địa chất và Dầu khí",
+    "MANGANH": "DC1",
+    "TENCTDT": "Ngành Kỹ thuật Địa chất",
+    "NAMAPDUNG": 2016,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "DC",
+    "TENDONVI": "Khoa Kỹ thuật Địa chất và Dầu khí",
+    "MANGANH": "DK1",
+    "TENCTDT": "Ngành Kỹ thuật Dầu khí",
+    "NAMAPDUNG": 2016,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "DD",
+    "TENDONVI": "Khoa Điện - Điện tử",
+    "MANGANH": "DTH",
+    "TENCTDT": "Ngành Kỹ thuật Điều khiển và Tự động hóa",
+    "NAMAPDUNG": 2016,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "DD",
+    "TENDONVI": "Khoa Điện - Điện tử",
+    "MANGANH": "DTT",
+    "TENCTDT": "Ngành Kỹ thuật Điện tử - Truyền thông",
+    "NAMAPDUNG": 2016,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "DD",
+    "TENDONVI": "Khoa Điện - Điện tử",
+    "MANGANH": "KDU",
+    "TENCTDT": "Ngành Kỹ thuật Điện - Điện tử",
+    "NAMAPDUNG": 2016,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "GT",
+    "TENDONVI": "Khoa Kỹ thuật Giao thông",
+    "MANGANH": "HKG",
+    "TENCTDT": "Ngành Kỹ thuật Hàng không",
+    "NAMAPDUNG": 2016,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "GT",
+    "TENDONVI": "Khoa Kỹ thuật Giao thông",
+    "MANGANH": "OTO",
+    "TENCTDT": "Ngành Công nghệ Kỹ thuật Ô tô",
+    "NAMAPDUNG": 2016,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "GT",
+    "TENDONVI": "Khoa Kỹ thuật Giao thông",
+    "MANGANH": "TAU",
+    "TENCTDT": "Ngành Kỹ thuật Tàu thủy",
+    "NAMAPDUNG": 2016,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "HC",
+    "TENDONVI": "Khoa Kỹ thuật Hóa học",
+    "MANGANH": "CSH",
+    "TENCTDT": "Ngành Công nghệ Sinh học",
+    "NAMAPDUNG": 2016,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "HC",
+    "TENDONVI": "Khoa Kỹ thuật Hóa học",
+    "MANGANH": "HC1",
+    "TENCTDT": "Ngành Kỹ thuật Hóa học",
+    "NAMAPDUNG": 2016,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "HC",
+    "TENDONVI": "Khoa Kỹ thuật Hóa học",
+    "MANGANH": "HTP",
+    "TENCTDT": "Ngành Công nghệ Thực phẩm",
+    "NAMAPDUNG": 2016,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "MO",
+    "TENDONVI": "Khoa Môi trường và Tài nguyên",
+    "MANGANH": "KMT",
+    "TENCTDT": "Ngành Kỹ thuật Môi trường",
+    "NAMAPDUNG": 2016,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "MO",
+    "TENDONVI": "Khoa Môi trường và Tài nguyên",
+    "MANGANH": "QM1",
+    "TENCTDT": "Ngành Quản lý Tài nguyên và Môi trường",
+    "NAMAPDUNG": 2016,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "MT",
+    "TENDONVI": "Khoa Khoa học và Kỹ thuật Máy tính",
+    "MANGANH": "KHM",
+    "TENCTDT": "Ngành Khoa học Máy tính",
+    "NAMAPDUNG": 2016,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "MT",
+    "TENDONVI": "Khoa Khoa học và Kỹ thuật Máy tính",
+    "MANGANH": "KTM",
+    "TENCTDT": "Ngành Kỹ thuật Máy tính",
+    "NAMAPDUNG": 2016,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "MT",
+    "TENDONVI": "Khoa Khoa học và Kỹ thuật Máy tính",
+    "MANGANH": "CNTTVHVL",
+    "TENCTDT": "Ngành công nghệ thông tin (Vừa Làm Vừa Học)",
+    "NAMAPDUNG": 2016,
+    "LINK": "http://www.aao.hcmut.edu.vn/index.php?route=catalog/chitietsv&path=59_62&tid=1380"
+  },
+  {
+    "MADONVI": "QL",
+    "TENDONVI": "Khoa Quản lý Công nghiệp",
+    "MANGANH": "QCN",
+    "TENCTDT": "Ngành Quản lý Công nghiệp",
+    "NAMAPDUNG": 2016,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "UD",
+    "TENDONVI": "Khoa Khoa học Ứng dụng",
+    "MANGANH": "CKT",
+    "TENCTDT": "Ngành Cơ Kỹ thuật",
+    "NAMAPDUNG": 2016,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "UD",
+    "TENDONVI": "Khoa Khoa học Ứng dụng",
+    "MANGANH": "VLY",
+    "TENCTDT": "Ngành Vật lý Kỹ thuật",
+    "NAMAPDUNG": 2016,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "VL",
+    "TENDONVI": "Khoa Công nghệ Vật Liệu",
+    "MANGANH": "VL1",
+    "TENCTDT": "Ngành Kỹ thuật Vật liệu",
+    "NAMAPDUNG": 2016,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "XD",
+    "TENDONVI": "Khoa Kỹ thuật Xây dựng",
+    "MANGANH": "CB1",
+    "TENCTDT": "Ngành Kỹ thuật Công trình Biển",
+    "NAMAPDUNG": 2016,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "XD",
+    "TENDONVI": "Khoa Kỹ thuật Xây dựng",
+    "MANGANH": "COS",
+    "TENCTDT": "Ngành Kỹ thuật Cơ sở Hạ tầng",
+    "NAMAPDUNG": 2016,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "XD",
+    "TENDONVI": "Khoa Kỹ thuật Xây dựng",
+    "MANGANH": "CVX",
+    "TENCTDT": "Ngành Công nghệ Kỹ thuật Vật liệu Xây dựng",
+    "NAMAPDUNG": 2016,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "XD",
+    "TENDONVI": "Khoa Kỹ thuật Xây dựng",
+    "MANGANH": "KCX",
+    "TENCTDT": "Ngành Kỹ thuật Công trình Xây dựng",
+    "NAMAPDUNG": 2016,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "XD",
+    "TENDONVI": "Khoa Kỹ thuật Xây dựng",
+    "MANGANH": "KTR",
+    "TENCTDT": "Ngành Kiến trúc",
+    "NAMAPDUNG": 2016,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "XD",
+    "TENDONVI": "Khoa Kỹ thuật Xây dựng",
+    "MANGANH": "TDI",
+    "TENCTDT": "Ngành Kỹ thuật Trắc địa - Bản đồ",
+    "NAMAPDUNG": 2016,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "XD",
+    "TENDONVI": "Khoa Kỹ thuật Xây dựng",
+    "MANGANH": "THU",
+    "TENCTDT": "Ngành Kỹ thuật Công trình Thủy",
+    "NAMAPDUNG": 2016,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "XD",
+    "TENDONVI": "Khoa Kỹ thuật Xây dựng",
+    "MANGANH": "XGT",
+    "TENCTDT": "Ngành Kỹ thuật Xây dựng Công trình Giao thông",
+    "NAMAPDUNG": 2016,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "BD",
+    "TENDONVI": "Trung tâm đào tạo Bảo dưỡng công nghiệp",
+    "MANGANH": "BDC",
+    "TENCTDT": "Ngành Bảo dưỡng Công nghiệp",
+    "NAMAPDUNG": 2017,
+    "LINK": "http://www.aao.hcmut.edu.vn/index.php?route=catalog/chitietsv&path=59_62&tid=1409"
+  },
+  {
+    "MADONVI": "CK",
+    "TENDONVI": "Khoa Cơ khí",
+    "MANGANH": "CK1",
+    "TENCTDT": "Ngành Kỹ thuật Cơ khí",
+    "NAMAPDUNG": 2017,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "CK",
+    "TENDONVI": "Khoa Cơ khí",
+    "MANGANH": "CNM",
+    "TENCTDT": "Ngành Công nghệ May",
+    "NAMAPDUNG": 2017,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "CK",
+    "TENDONVI": "Khoa Cơ khí",
+    "MANGANH": "COD",
+    "TENCTDT": "Ngành Kỹ thuật Cơ điện tử",
+    "NAMAPDUNG": 2017,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "CK",
+    "TENDONVI": "Khoa Cơ khí",
+    "MANGANH": "DET",
+    "TENCTDT": "Ngành Kỹ thuật Dệt",
+    "NAMAPDUNG": 2017,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "CK",
+    "TENDONVI": "Khoa Cơ khí",
+    "MANGANH": "KTH",
+    "TENCTDT": "Ngành Kỹ thuật Hệ thống Công nghiệp",
+    "NAMAPDUNG": 2017,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "CK",
+    "TENDONVI": "Khoa Cơ khí",
+    "MANGANH": "LQC",
+    "TENCTDT": "Ngành Logistics và Quản lý chuỗi Cung ứng",
+    "NAMAPDUNG": 2017,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "CK",
+    "TENDONVI": "Khoa Cơ khí",
+    "MANGANH": "NL1",
+    "TENCTDT": "Ngành Kỹ thuật Nhiệt",
+    "NAMAPDUNG": 2017,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "DC",
+    "TENDONVI": "Khoa Kỹ thuật Địa chất và Dầu khí",
+    "MANGANH": "DC1",
+    "TENCTDT": "Ngành Kỹ thuật Địa chất",
+    "NAMAPDUNG": 2017,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "DC",
+    "TENDONVI": "Khoa Kỹ thuật Địa chất và Dầu khí",
+    "MANGANH": "DK1",
+    "TENCTDT": "Ngành Kỹ thuật Dầu khí",
+    "NAMAPDUNG": 2017,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "DD",
+    "TENDONVI": "Khoa Điện - Điện tử",
+    "MANGANH": "DTH",
+    "TENCTDT": "Ngành Kỹ thuật Điều khiển và Tự động hóa",
+    "NAMAPDUNG": 2017,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "DD",
+    "TENDONVI": "Khoa Điện - Điện tử",
+    "MANGANH": "DTT",
+    "TENCTDT": "Ngành Kỹ thuật Điện tử - Truyền thông",
+    "NAMAPDUNG": 2017,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "DD",
+    "TENDONVI": "Khoa Điện - Điện tử",
+    "MANGANH": "KDU",
+    "TENCTDT": "Ngành Kỹ thuật Điện - Điện tử",
+    "NAMAPDUNG": 2017,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "GT",
+    "TENDONVI": "Khoa Kỹ thuật Giao thông",
+    "MANGANH": "HKG",
+    "TENCTDT": "Ngành Kỹ thuật Hàng không",
+    "NAMAPDUNG": 2017,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "GT",
+    "TENDONVI": "Khoa Kỹ thuật Giao thông",
+    "MANGANH": "OTO",
+    "TENCTDT": "Ngành Công nghệ Kỹ thuật Ô tô",
+    "NAMAPDUNG": 2017,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "GT",
+    "TENDONVI": "Khoa Kỹ thuật Giao thông",
+    "MANGANH": "TAU",
+    "TENCTDT": "Ngành Kỹ thuật Tàu thủy",
+    "NAMAPDUNG": 2017,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "HC",
+    "TENDONVI": "Khoa Kỹ thuật Hóa học",
+    "MANGANH": "CSH",
+    "TENCTDT": "Ngành Công nghệ Sinh học",
+    "NAMAPDUNG": 2017,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "HC",
+    "TENDONVI": "Khoa Kỹ thuật Hóa học",
+    "MANGANH": "HC1",
+    "TENCTDT": "Ngành Kỹ thuật Hóa học",
+    "NAMAPDUNG": 2017,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "HC",
+    "TENDONVI": "Khoa Kỹ thuật Hóa học",
+    "MANGANH": "HTP",
+    "TENCTDT": "Ngành Công nghệ Thực phẩm",
+    "NAMAPDUNG": 2017,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "MO",
+    "TENDONVI": "Khoa Môi trường và Tài nguyên",
+    "MANGANH": "KMT",
+    "TENCTDT": "Ngành Kỹ thuật Môi trường",
+    "NAMAPDUNG": 2017,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "MO",
+    "TENDONVI": "Khoa Môi trường và Tài nguyên",
+    "MANGANH": "QM1",
+    "TENCTDT": "Ngành Quản lý Tài nguyên và Môi trường",
+    "NAMAPDUNG": 2017,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "MT",
+    "TENDONVI": "Khoa Khoa học và Kỹ thuật Máy tính",
+    "MANGANH": "KHM",
+    "TENCTDT": "Ngành Khoa học Máy tính",
+    "NAMAPDUNG": 2017,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "MT",
+    "TENDONVI": "Khoa Khoa học và Kỹ thuật Máy tính",
+    "MANGANH": "KTM",
+    "TENCTDT": "Ngành Kỹ thuật Máy tính",
+    "NAMAPDUNG": 2017,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "MT",
+    "TENDONVI": "Khoa Khoa học và Kỹ thuật Máy tính",
+    "MANGANH": "CNTTVHVL",
+    "TENCTDT": "Ngành công nghệ thông tin (Vừa Làm Vừa Học)",
+    "NAMAPDUNG": 2017,
+    "LINK": "http://www.aao.hcmut.edu.vn/index.php?route=catalog/chitietsv&path=59_62&tid=1380"
+  },
+  {
+    "MADONVI": "QL",
+    "TENDONVI": "Khoa Quản lý Công nghiệp",
+    "MANGANH": "QCN",
+    "TENCTDT": "Ngành Quản lý Công nghiệp",
+    "NAMAPDUNG": 2017,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "UD",
+    "TENDONVI": "Khoa Khoa học Ứng dụng",
+    "MANGANH": "CKT",
+    "TENCTDT": "Ngành Cơ Kỹ thuật",
+    "NAMAPDUNG": 2017,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "UD",
+    "TENDONVI": "Khoa Khoa học Ứng dụng",
+    "MANGANH": "VLY",
+    "TENCTDT": "Ngành Vật lý Kỹ thuật",
+    "NAMAPDUNG": 2017,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "VL",
+    "TENDONVI": "Khoa Công nghệ Vật Liệu",
+    "MANGANH": "VL1",
+    "TENCTDT": "Ngành Kỹ thuật Vật liệu",
+    "NAMAPDUNG": 2017,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "XD",
+    "TENDONVI": "Khoa Kỹ thuật Xây dựng",
+    "MANGANH": "CB1",
+    "TENCTDT": "Ngành Kỹ thuật Công trình Biển",
+    "NAMAPDUNG": 2017,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "XD",
+    "TENDONVI": "Khoa Kỹ thuật Xây dựng",
+    "MANGANH": "COS",
+    "TENCTDT": "Ngành Kỹ thuật Cơ sở Hạ tầng",
+    "NAMAPDUNG": 2017,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "XD",
+    "TENDONVI": "Khoa Kỹ thuật Xây dựng",
+    "MANGANH": "CVX",
+    "TENCTDT": "Ngành Công nghệ Kỹ thuật Vật liệu Xây dựng",
+    "NAMAPDUNG": 2017,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "XD",
+    "TENDONVI": "Khoa Kỹ thuật Xây dựng",
+    "MANGANH": "KCX",
+    "TENCTDT": "Ngành Kỹ thuật Công trình Xây dựng",
+    "NAMAPDUNG": 2017,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "XD",
+    "TENDONVI": "Khoa Kỹ thuật Xây dựng",
+    "MANGANH": "KTR",
+    "TENCTDT": "Ngành Kiến trúc",
+    "NAMAPDUNG": 2017,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "XD",
+    "TENDONVI": "Khoa Kỹ thuật Xây dựng",
+    "MANGANH": "TDI",
+    "TENCTDT": "Ngành Kỹ thuật Trắc địa - Bản đồ",
+    "NAMAPDUNG": 2017,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "XD",
+    "TENDONVI": "Khoa Kỹ thuật Xây dựng",
+    "MANGANH": "THU",
+    "TENCTDT": "Ngành Kỹ thuật Công trình Thủy",
+    "NAMAPDUNG": 2017,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "XD",
+    "TENDONVI": "Khoa Kỹ thuật Xây dựng",
+    "MANGANH": "XGT",
+    "TENCTDT": "Ngành Kỹ thuật Xây dựng Công trình Giao thông",
+    "NAMAPDUNG": 2017,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "BD",
+    "TENDONVI": "Trung tâm đào tạo Bảo dưỡng công nghiệp",
+    "MANGANH": "BDG",
+    "TENCTDT": "Ngành Bảo dưỡng Công nghiệp",
+    "NAMAPDUNG": 2018,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "CK",
+    "TENDONVI": "Khoa Cơ khí",
+    "MANGANH": "CDM",
+    "TENCTDT": "Ngành Công nghệ Dệt May",
+    "NAMAPDUNG": 2018,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "CK",
+    "TENDONVI": "Khoa Cơ khí",
+    "MANGANH": "CK1",
+    "TENCTDT": "Ngành Kỹ thuật Cơ khí",
+    "NAMAPDUNG": 2018,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "CK",
+    "TENDONVI": "Khoa Cơ khí",
+    "MANGANH": "COD",
+    "TENCTDT": "Ngành Kỹ thuật Cơ điện tử",
+    "NAMAPDUNG": 2018,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "CK",
+    "TENDONVI": "Khoa Cơ khí",
+    "MANGANH": "DET",
+    "TENCTDT": "Ngành Kỹ thuật Dệt",
+    "NAMAPDUNG": 2018,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "CK",
+    "TENDONVI": "Khoa Cơ khí",
+    "MANGANH": "KTH",
+    "TENCTDT": "Ngành Kỹ thuật Hệ thống Công nghiệp",
+    "NAMAPDUNG": 2018,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "CK",
+    "TENDONVI": "Khoa Cơ khí",
+    "MANGANH": "LQC",
+    "TENCTDT": "Ngành Logistics và Quản lý chuỗi Cung ứng",
+    "NAMAPDUNG": 2018,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "CK",
+    "TENDONVI": "Khoa Cơ khí",
+    "MANGANH": "NL1",
+    "TENCTDT": "Ngành Kỹ thuật Nhiệt",
+    "NAMAPDUNG": 2018,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "CK",
+    "TENDONVI": "Khoa Cơ khí",
+    "MANGANH": "CK1LT",
+    "TENCTDT": "Ngành Kỹ thuật Cơ khí (Liên thông)",
+    "NAMAPDUNG": 2018,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "DC",
+    "TENDONVI": "Khoa Kỹ thuật Địa chất và Dầu khí",
+    "MANGANH": "DC1",
+    "TENCTDT": "Ngành Kỹ thuật Địa chất",
+    "NAMAPDUNG": 2018,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "DC",
+    "TENDONVI": "Khoa Kỹ thuật Địa chất và Dầu khí",
+    "MANGANH": "DK1",
+    "TENCTDT": "Ngành Kỹ thuật Dầu khí",
+    "NAMAPDUNG": 2018,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "DD",
+    "TENDONVI": "Khoa Điện - Điện tử",
+    "MANGANH": "DTH",
+    "TENCTDT": "Ngành Kỹ thuật Điều khiển và Tự động hóa",
+    "NAMAPDUNG": 2018,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "DD",
+    "TENDONVI": "Khoa Điện - Điện tử",
+    "MANGANH": "DVT",
+    "TENCTDT": "Ngành Kỹ thuật Điện tử - Viễn thông",
+    "NAMAPDUNG": 2018,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "DD",
+    "TENDONVI": "Khoa Điện - Điện tử",
+    "MANGANH": "KDI",
+    "TENCTDT": "Ngành Kỹ thuật Điện",
+    "NAMAPDUNG": 2018,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "GT",
+    "TENDONVI": "Khoa Kỹ thuật Giao thông",
+    "MANGANH": "HKG",
+    "TENCTDT": "Ngành Kỹ thuật Hàng không",
+    "NAMAPDUNG": 2018,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "GT",
+    "TENDONVI": "Khoa Kỹ thuật Giao thông",
+    "MANGANH": "KTO",
+    "TENCTDT": "Ngành Kỹ thuật Ô tô",
+    "NAMAPDUNG": 2018,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "GT",
+    "TENDONVI": "Khoa Kỹ thuật Giao thông",
+    "MANGANH": "TAU",
+    "TENCTDT": "Ngành Kỹ thuật Tàu thủy",
+    "NAMAPDUNG": 2018,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "HC",
+    "TENDONVI": "Khoa Kỹ thuật Hóa học",
+    "MANGANH": "CSH",
+    "TENCTDT": "Ngành Công nghệ Sinh học",
+    "NAMAPDUNG": 2018,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "HC",
+    "TENDONVI": "Khoa Kỹ thuật Hóa học",
+    "MANGANH": "HC1",
+    "TENCTDT": "Ngành Kỹ thuật Hóa học",
+    "NAMAPDUNG": 2018,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "HC",
+    "TENDONVI": "Khoa Kỹ thuật Hóa học",
+    "MANGANH": "HTP",
+    "TENCTDT": "Ngành Công nghệ Thực phẩm",
+    "NAMAPDUNG": 2018,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "MO",
+    "TENDONVI": "Khoa Môi trường và Tài nguyên",
+    "MANGANH": "KMT",
+    "TENCTDT": "Ngành Kỹ thuật Môi trường",
+    "NAMAPDUNG": 2018,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "MO",
+    "TENDONVI": "Khoa Môi trường và Tài nguyên",
+    "MANGANH": "QM1",
+    "TENCTDT": "Ngành Quản lý Tài nguyên và Môi trường",
+    "NAMAPDUNG": 2018,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "MT",
+    "TENDONVI": "Khoa Khoa học và Kỹ thuật Máy tính",
+    "MANGANH": "KHM",
+    "TENCTDT": "Ngành Khoa học Máy tính",
+    "NAMAPDUNG": 2018,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "MT",
+    "TENDONVI": "Khoa Khoa học và Kỹ thuật Máy tính",
+    "MANGANH": "KTM",
+    "TENCTDT": "Ngành Kỹ thuật Máy tính",
+    "NAMAPDUNG": 2018,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "QL",
+    "TENDONVI": "Khoa Quản lý Công nghiệp",
+    "MANGANH": "QCN",
+    "TENCTDT": "Ngành Quản lý Công nghiệp",
+    "NAMAPDUNG": 2018,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "UD",
+    "TENDONVI": "Khoa Khoa học Ứng dụng",
+    "MANGANH": "CKT",
+    "TENCTDT": "Ngành Cơ Kỹ thuật",
+    "NAMAPDUNG": 2018,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "UD",
+    "TENDONVI": "Khoa Khoa học Ứng dụng",
+    "MANGANH": "VLY",
+    "TENCTDT": "Ngành Vật lý Kỹ thuật",
+    "NAMAPDUNG": 2018,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "VL",
+    "TENDONVI": "Khoa Công nghệ Vật Liệu",
+    "MANGANH": "VL1",
+    "TENCTDT": "Ngành Kỹ thuật Vật liệu",
+    "NAMAPDUNG": 2018,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "XD",
+    "TENDONVI": "Khoa Kỹ thuật Xây dựng",
+    "MANGANH": "COS",
+    "TENCTDT": "Ngành Kỹ thuật Cơ sở Hạ tầng",
+    "NAMAPDUNG": 2018,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "XD",
+    "TENDONVI": "Khoa Kỹ thuật Xây dựng",
+    "MANGANH": "CVX",
+    "TENCTDT": "Ngành Công nghệ Kỹ thuật Vật liệu Xây dựng",
+    "NAMAPDUNG": 2018,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "XD",
+    "TENDONVI": "Khoa Kỹ thuật Xây dựng",
+    "MANGANH": "KTR",
+    "TENCTDT": "Ngành Kiến trúc",
+    "NAMAPDUNG": 2018,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "XD",
+    "TENDONVI": "Khoa Kỹ thuật Xây dựng",
+    "MANGANH": "KTX",
+    "TENCTDT": "Ngành Kỹ thuật Xây dựng",
+    "NAMAPDUNG": 2018,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "XD",
+    "TENDONVI": "Khoa Kỹ thuật Xây dựng",
+    "MANGANH": "KXB",
+    "TENCTDT": "Ngành Kỹ thuật Xây dựng Công trình Biển",
+    "NAMAPDUNG": 2018,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "XD",
+    "TENDONVI": "Khoa Kỹ thuật Xây dựng",
+    "MANGANH": "KXT",
+    "TENCTDT": "Ngành Kỹ thuật Xây dựng Công trình Thủy",
+    "NAMAPDUNG": 2018,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "XD",
+    "TENDONVI": "Khoa Kỹ thuật Xây dựng",
+    "MANGANH": "TDI",
+    "TENCTDT": "Ngành Kỹ thuật Trắc địa - Bản đồ",
+    "NAMAPDUNG": 2018,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "XD",
+    "TENDONVI": "Khoa Kỹ thuật Xây dựng",
+    "MANGANH": "XGT",
+    "TENCTDT": "Ngành Kỹ thuật Xây dựng Công trình Giao thông",
+    "NAMAPDUNG": 2018,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "BD",
+    "TENDONVI": "Trung tâm đào tạo Bảo dưỡng công nghiệp",
+    "MANGANH": "BDG",
+    "TENCTDT": "Ngành Bảo dưỡng Công nghiệp",
+    "NAMAPDUNG": 2019,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "CK",
+    "TENDONVI": "Khoa Cơ khí",
+    "MANGANH": "CDM",
+    "TENCTDT": "Ngành Công nghệ Dệt May",
+    "NAMAPDUNG": 2019,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "CK",
+    "TENDONVI": "Khoa Cơ khí",
+    "MANGANH": "CK1",
+    "TENCTDT": "Ngành Kỹ thuật Cơ khí",
+    "NAMAPDUNG": 2019,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "CK",
+    "TENDONVI": "Khoa Cơ khí",
+    "MANGANH": "COD",
+    "TENCTDT": "Ngành Kỹ thuật Cơ điện tử",
+    "NAMAPDUNG": 2019,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "CK",
+    "TENDONVI": "Khoa Cơ khí",
+    "MANGANH": "DET",
+    "TENCTDT": "Ngành Kỹ thuật Dệt",
+    "NAMAPDUNG": 2019,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "CK",
+    "TENDONVI": "Khoa Cơ khí",
+    "MANGANH": "KTH",
+    "TENCTDT": "Ngành Kỹ thuật Hệ thống Công nghiệp",
+    "NAMAPDUNG": 2019,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "CK",
+    "TENDONVI": "Khoa Cơ khí",
+    "MANGANH": "LQC",
+    "TENCTDT": "Ngành Logistics và Quản lý chuỗi Cung ứng",
+    "NAMAPDUNG": 2019,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "CK",
+    "TENDONVI": "Khoa Cơ khí",
+    "MANGANH": "NL1",
+    "TENCTDT": "Ngành Kỹ thuật Nhiệt",
+    "NAMAPDUNG": 2019,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "DC",
+    "TENDONVI": "Khoa Kỹ thuật Địa chất và Dầu khí",
+    "MANGANH": "DC1",
+    "TENCTDT": "Ngành Kỹ thuật Địa chất",
+    "NAMAPDUNG": 2019,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "DC",
+    "TENDONVI": "Khoa Kỹ thuật Địa chất và Dầu khí",
+    "MANGANH": "DK1",
+    "TENCTDT": "Ngành Kỹ thuật Dầu khí",
+    "NAMAPDUNG": 2019,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "DD",
+    "TENDONVI": "Khoa Điện - Điện tử",
+    "MANGANH": "DTH",
+    "TENCTDT": "Ngành Kỹ thuật Điều khiển và Tự động hóa",
+    "NAMAPDUNG": 2019,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "DD",
+    "TENDONVI": "Khoa Điện - Điện tử",
+    "MANGANH": "DVT",
+    "TENCTDT": "Ngành Kỹ thuật Điện tử - Viễn thông",
+    "NAMAPDUNG": 2019,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "DD",
+    "TENDONVI": "Khoa Điện - Điện tử",
+    "MANGANH": "KDI",
+    "TENCTDT": "Ngành Kỹ thuật Điện",
+    "NAMAPDUNG": 2019,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "DD",
+    "TENDONVI": "Khoa Điện - Điện tử",
+    "MANGANH": "DTVTKDT",
+    "TENCTDT": "Song ngành Kỹ thuật Điện tử - Viễn thông - Kỹ thuật Điện",
+    "NAMAPDUNG": 2019,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "DD",
+    "TENDONVI": "Khoa Điện - Điện tử",
+    "MANGANH": "DTVTTDH",
+    "TENCTDT": "Song ngành Kỹ thuật Điện tử-Viễn thông - Kỹ thuật Điều khiển & Tự động hóa",
+    "NAMAPDUNG": 2019,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "DD",
+    "TENDONVI": "Khoa Điện - Điện tử",
+    "MANGANH": "KTDDTVT",
+    "TENCTDT": "Song ngành Kỹ thuật Điện - Kỹ thuật Điện tử - Viễn thông",
+    "NAMAPDUNG": 2019,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "DD",
+    "TENDONVI": "Khoa Điện - Điện tử",
+    "MANGANH": "KTDTDH",
+    "TENCTDT": "Song ngành Kỹ thuật Điện - Kỹ thuật Điều khiển và Tự động hóa",
+    "NAMAPDUNG": 2019,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "DD",
+    "TENDONVI": "Khoa Điện - Điện tử",
+    "MANGANH": "TDHDTVT",
+    "TENCTDT": "Song ngành Kỹ thuật Điều khiển & Tự động hóa - Kỹ thuật Điện tử-Viễn thông",
+    "NAMAPDUNG": 2019,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "DD",
+    "TENDONVI": "Khoa Điện - Điện tử",
+    "MANGANH": "TDHKTD",
+    "TENCTDT": "Song ngành Kỹ thuật Điều khiển & Tự động hóa - Kỹ thuật Điện",
+    "NAMAPDUNG": 2019,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "GT",
+    "TENDONVI": "Khoa Kỹ thuật Giao thông",
+    "MANGANH": "HKG",
+    "TENCTDT": "Ngành Kỹ thuật Hàng không",
+    "NAMAPDUNG": 2019,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "GT",
+    "TENDONVI": "Khoa Kỹ thuật Giao thông",
+    "MANGANH": "KTO",
+    "TENCTDT": "Ngành Kỹ thuật Ô tô",
+    "NAMAPDUNG": 2019,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "GT",
+    "TENDONVI": "Khoa Kỹ thuật Giao thông",
+    "MANGANH": "TAU",
+    "TENCTDT": "Ngành Kỹ thuật Tàu thủy",
+    "NAMAPDUNG": 2019,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "GT",
+    "TENDONVI": "Khoa Kỹ thuật Giao thông",
+    "MANGANH": "HKGTAU",
+    "TENCTDT": "Song ngành Kỹ thuật Tàu thủy - Hàng không",
+    "NAMAPDUNG": 2019,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "HC",
+    "TENDONVI": "Khoa Kỹ thuật Hóa học",
+    "MANGANH": "CSH",
+    "TENCTDT": "Ngành Công nghệ Sinh học",
+    "NAMAPDUNG": 2019,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "HC",
+    "TENDONVI": "Khoa Kỹ thuật Hóa học",
+    "MANGANH": "HC1",
+    "TENCTDT": "Ngành Kỹ thuật Hóa học",
+    "NAMAPDUNG": 2019,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "HC",
+    "TENDONVI": "Khoa Kỹ thuật Hóa học",
+    "MANGANH": "HTP",
+    "TENCTDT": "Ngành Công nghệ Thực phẩm",
+    "NAMAPDUNG": 2019,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "MO",
+    "TENDONVI": "Khoa Môi trường và Tài nguyên",
+    "MANGANH": "KMT",
+    "TENCTDT": "Ngành Kỹ thuật Môi trường",
+    "NAMAPDUNG": 2019,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "MO",
+    "TENDONVI": "Khoa Môi trường và Tài nguyên",
+    "MANGANH": "QM1",
+    "TENCTDT": "Ngành Quản lý Tài nguyên và Môi trường",
+    "NAMAPDUNG": 2019,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "MT",
+    "TENDONVI": "Khoa Khoa học và Kỹ thuật Máy tính",
+    "MANGANH": "KHM",
+    "TENCTDT": "Ngành Khoa học Máy tính",
+    "NAMAPDUNG": 2019,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "MT",
+    "TENDONVI": "Khoa Khoa học và Kỹ thuật Máy tính",
+    "MANGANH": "KTM",
+    "TENCTDT": "Ngành Kỹ thuật Máy tính",
+    "NAMAPDUNG": 2019,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "QL",
+    "TENDONVI": "Khoa Quản lý Công nghiệp",
+    "MANGANH": "QCN",
+    "TENCTDT": "Ngành Quản lý Công nghiệp",
+    "NAMAPDUNG": 2019,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "UD",
+    "TENDONVI": "Khoa Khoa học Ứng dụng",
+    "MANGANH": "CKT",
+    "TENCTDT": "Ngành Cơ Kỹ thuật",
+    "NAMAPDUNG": 2019,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "UD",
+    "TENDONVI": "Khoa Khoa học Ứng dụng",
+    "MANGANH": "VLY",
+    "TENCTDT": "Ngành Vật lý Kỹ thuật",
+    "NAMAPDUNG": 2019,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "VL",
+    "TENDONVI": "Khoa Công nghệ Vật Liệu",
+    "MANGANH": "VL1",
+    "TENCTDT": "Ngành Kỹ thuật Vật liệu",
+    "NAMAPDUNG": 2019,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "XD",
+    "TENDONVI": "Khoa Kỹ thuật Xây dựng",
+    "MANGANH": "COS",
+    "TENCTDT": "Ngành Kỹ thuật Cơ sở Hạ tầng",
+    "NAMAPDUNG": 2019,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "XD",
+    "TENDONVI": "Khoa Kỹ thuật Xây dựng",
+    "MANGANH": "CVX",
+    "TENCTDT": "Ngành Công nghệ Kỹ thuật Vật liệu Xây dựng",
+    "NAMAPDUNG": 2019,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "XD",
+    "TENDONVI": "Khoa Kỹ thuật Xây dựng",
+    "MANGANH": "KTR",
+    "TENCTDT": "Ngành Kiến trúc",
+    "NAMAPDUNG": 2019,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "XD",
+    "TENDONVI": "Khoa Kỹ thuật Xây dựng",
+    "MANGANH": "KTX",
+    "TENCTDT": "Ngành Kỹ thuật Xây dựng",
+    "NAMAPDUNG": 2019,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "XD",
+    "TENDONVI": "Khoa Kỹ thuật Xây dựng",
+    "MANGANH": "KXB",
+    "TENCTDT": "Ngành Kỹ thuật Xây dựng Công trình Biển",
+    "NAMAPDUNG": 2019,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "XD",
+    "TENDONVI": "Khoa Kỹ thuật Xây dựng",
+    "MANGANH": "KXT",
+    "TENCTDT": "Ngành Kỹ thuật Xây dựng Công trình Thủy",
+    "NAMAPDUNG": 2019,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "XD",
+    "TENDONVI": "Khoa Kỹ thuật Xây dựng",
+    "MANGANH": "TDI",
+    "TENCTDT": "Ngành Kỹ thuật Trắc địa - Bản đồ",
+    "NAMAPDUNG": 2019,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "XD",
+    "TENDONVI": "Khoa Kỹ thuật Xây dựng",
+    "MANGANH": "XGT",
+    "TENCTDT": "Ngành Kỹ thuật Xây dựng Công trình Giao thông",
+    "NAMAPDUNG": 2019,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "BD",
+    "TENDONVI": "Trung tâm đào tạo Bảo dưỡng công nghiệp",
+    "MANGANH": "BDG",
+    "TENCTDT": "Ngành Bảo dưỡng Công nghiệp",
+    "NAMAPDUNG": 2020,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "CK",
+    "TENDONVI": "Khoa Cơ khí",
+    "MANGANH": "CDM",
+    "TENCTDT": "Ngành Công nghệ Dệt May",
+    "NAMAPDUNG": 2020,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "CK",
+    "TENDONVI": "Khoa Cơ khí",
+    "MANGANH": "CK1",
+    "TENCTDT": "Ngành Kỹ thuật Cơ khí",
+    "NAMAPDUNG": 2020,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "CK",
+    "TENDONVI": "Khoa Cơ khí",
+    "MANGANH": "COD",
+    "TENCTDT": "Ngành Kỹ thuật Cơ điện tử",
+    "NAMAPDUNG": 2020,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "CK",
+    "TENDONVI": "Khoa Cơ khí",
+    "MANGANH": "DET",
+    "TENCTDT": "Ngành Kỹ thuật Dệt",
+    "NAMAPDUNG": 2020,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "CK",
+    "TENDONVI": "Khoa Cơ khí",
+    "MANGANH": "KTH",
+    "TENCTDT": "Ngành Kỹ thuật Hệ thống Công nghiệp",
+    "NAMAPDUNG": 2020,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "CK",
+    "TENDONVI": "Khoa Cơ khí",
+    "MANGANH": "LQC",
+    "TENCTDT": "Ngành Logistics và Quản lý chuỗi Cung ứng",
+    "NAMAPDUNG": 2020,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "CK",
+    "TENDONVI": "Khoa Cơ khí",
+    "MANGANH": "NL1",
+    "TENCTDT": "Ngành Kỹ thuật Nhiệt",
+    "NAMAPDUNG": 2020,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "DC",
+    "TENDONVI": "Khoa Kỹ thuật Địa chất và Dầu khí",
+    "MANGANH": "DC1",
+    "TENCTDT": "Ngành Kỹ thuật Địa chất",
+    "NAMAPDUNG": 2020,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "DC",
+    "TENDONVI": "Khoa Kỹ thuật Địa chất và Dầu khí",
+    "MANGANH": "DK1",
+    "TENCTDT": "Ngành Kỹ thuật Dầu khí",
+    "NAMAPDUNG": 2020,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "DD",
+    "TENDONVI": "Khoa Điện - Điện tử",
+    "MANGANH": "DTH",
+    "TENCTDT": "Ngành Kỹ thuật Điều khiển và Tự động hóa",
+    "NAMAPDUNG": 2020,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "DD",
+    "TENDONVI": "Khoa Điện - Điện tử",
+    "MANGANH": "DVT",
+    "TENCTDT": "Ngành Kỹ thuật Điện tử - Viễn thông",
+    "NAMAPDUNG": 2020,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "DD",
+    "TENDONVI": "Khoa Điện - Điện tử",
+    "MANGANH": "KDI",
+    "TENCTDT": "Ngành Kỹ thuật Điện",
+    "NAMAPDUNG": 2020,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "DD",
+    "TENDONVI": "Khoa Điện - Điện tử",
+    "MANGANH": "DTVTKTD",
+    "TENCTDT": "Song ngành Kỹ thuật Điện tử - Viễn thông - Kỹ thuật Điện",
+    "NAMAPDUNG": 2020,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "DD",
+    "TENDONVI": "Khoa Điện - Điện tử",
+    "MANGANH": "DTVTTDH",
+    "TENCTDT": "Song ngành Kỹ thuật Điện tử-Viễn thông - Kỹ thuật Điều khiển & Tự động hóa",
+    "NAMAPDUNG": 2020,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "DD",
+    "TENDONVI": "Khoa Điện - Điện tử",
+    "MANGANH": "KTDDTVT",
+    "TENCTDT": "Song ngành Kỹ thuật Điện - Kỹ thuật Điện tử - Viễn thông",
+    "NAMAPDUNG": 2020,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "DD",
+    "TENDONVI": "Khoa Điện - Điện tử",
+    "MANGANH": "KTDTDH",
+    "TENCTDT": "Song ngành Kỹ thuật Điện - Kỹ thuật Điều khiển và Tự động hóa",
+    "NAMAPDUNG": 2020,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "DD",
+    "TENDONVI": "Khoa Điện - Điện tử",
+    "MANGANH": "TDHDTVT",
+    "TENCTDT": "Song ngành Kỹ thuật Điều khiển & Tự động hóa - Kỹ thuật Điện tử-Viễn thông",
+    "NAMAPDUNG": 2020,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "DD",
+    "TENDONVI": "Khoa Điện - Điện tử",
+    "MANGANH": "TDHKTD",
+    "TENCTDT": "Song ngành Kỹ thuật Điều khiển & Tự động hóa - Kỹ thuật Điện",
+    "NAMAPDUNG": 2020,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "GT",
+    "TENDONVI": "Khoa Kỹ thuật Giao thông",
+    "MANGANH": "HKG",
+    "TENCTDT": "Ngành Kỹ thuật Hàng không",
+    "NAMAPDUNG": 2020,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "GT",
+    "TENDONVI": "Khoa Kỹ thuật Giao thông",
+    "MANGANH": "KTO",
+    "TENCTDT": "Ngành Kỹ thuật Ô tô",
+    "NAMAPDUNG": 2020,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "GT",
+    "TENDONVI": "Khoa Kỹ thuật Giao thông",
+    "MANGANH": "TAU",
+    "TENCTDT": "Ngành Kỹ thuật Tàu thủy",
+    "NAMAPDUNG": 2020,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "GT",
+    "TENDONVI": "Khoa Kỹ thuật Giao thông",
+    "MANGANH": "HKGTAU",
+    "TENCTDT": "Song ngành Kỹ thuật Tàu thủy - Hàng không",
+    "NAMAPDUNG": 2020,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "HC",
+    "TENDONVI": "Khoa Kỹ thuật Hóa học",
+    "MANGANH": "CSH",
+    "TENCTDT": "Ngành Công nghệ Sinh học",
+    "NAMAPDUNG": 2020,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "HC",
+    "TENDONVI": "Khoa Kỹ thuật Hóa học",
+    "MANGANH": "HC1",
+    "TENCTDT": "Ngành Kỹ thuật Hóa học",
+    "NAMAPDUNG": 2020,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "HC",
+    "TENDONVI": "Khoa Kỹ thuật Hóa học",
+    "MANGANH": "HTP",
+    "TENCTDT": "Ngành Công nghệ Thực phẩm",
+    "NAMAPDUNG": 2020,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "MO",
+    "TENDONVI": "Khoa Môi trường và Tài nguyên",
+    "MANGANH": "KMT",
+    "TENCTDT": "Ngành Kỹ thuật Môi trường",
+    "NAMAPDUNG": 2020,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "MO",
+    "TENDONVI": "Khoa Môi trường và Tài nguyên",
+    "MANGANH": "QM1",
+    "TENCTDT": "Ngành Quản lý Tài nguyên và Môi trường",
+    "NAMAPDUNG": 2020,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "MT",
+    "TENDONVI": "Khoa Khoa học và Kỹ thuật Máy tính",
+    "MANGANH": "KHM",
+    "TENCTDT": "Ngành Khoa học Máy tính",
+    "NAMAPDUNG": 2020,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "MT",
+    "TENDONVI": "Khoa Khoa học và Kỹ thuật Máy tính",
+    "MANGANH": "KTM",
+    "TENCTDT": "Ngành Kỹ thuật Máy tính",
+    "NAMAPDUNG": 2020,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "MT",
+    "TENDONVI": "Khoa Khoa học và Kỹ thuật Máy tính",
+    "MANGANH": "CNTT",
+    "TENCTDT": "Ngành Công nghệ thông tin (Đào tạo từ xa)",
+    "NAMAPDUNG": 2020,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "QL",
+    "TENDONVI": "Khoa Quản lý Công nghiệp",
+    "MANGANH": "QCN",
+    "TENCTDT": "Ngành Quản lý Công nghiệp",
+    "NAMAPDUNG": 2020,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "UD",
+    "TENDONVI": "Khoa Khoa học Ứng dụng",
+    "MANGANH": "CKT",
+    "TENCTDT": "Ngành Cơ Kỹ thuật",
+    "NAMAPDUNG": 2020,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "UD",
+    "TENDONVI": "Khoa Khoa học Ứng dụng",
+    "MANGANH": "VLY",
+    "TENCTDT": "Ngành Vật lý Kỹ thuật",
+    "NAMAPDUNG": 2020,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "VL",
+    "TENDONVI": "Khoa Công nghệ Vật Liệu",
+    "MANGANH": "VL1",
+    "TENCTDT": "Ngành Kỹ thuật Vật liệu",
+    "NAMAPDUNG": 2020,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "XD",
+    "TENDONVI": "Khoa Kỹ thuật Xây dựng",
+    "MANGANH": "COS",
+    "TENCTDT": "Ngành Kỹ thuật Cơ sở Hạ tầng",
+    "NAMAPDUNG": 2020,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "XD",
+    "TENDONVI": "Khoa Kỹ thuật Xây dựng",
+    "MANGANH": "CVX",
+    "TENCTDT": "Ngành Công nghệ Kỹ thuật Vật liệu Xây dựng",
+    "NAMAPDUNG": 2020,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "XD",
+    "TENDONVI": "Khoa Kỹ thuật Xây dựng",
+    "MANGANH": "KTR",
+    "TENCTDT": "Ngành Kiến trúc",
+    "NAMAPDUNG": 2020,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "XD",
+    "TENDONVI": "Khoa Kỹ thuật Xây dựng",
+    "MANGANH": "KTX",
+    "TENCTDT": "Ngành Kỹ thuật Xây dựng",
+    "NAMAPDUNG": 2020,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "XD",
+    "TENDONVI": "Khoa Kỹ thuật Xây dựng",
+    "MANGANH": "KXB",
+    "TENCTDT": "Ngành Kỹ thuật Xây dựng Công trình Biển",
+    "NAMAPDUNG": 2020,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "XD",
+    "TENDONVI": "Khoa Kỹ thuật Xây dựng",
+    "MANGANH": "KXT",
+    "TENCTDT": "Ngành Kỹ thuật Xây dựng Công trình Thủy",
+    "NAMAPDUNG": 2020,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "XD",
+    "TENDONVI": "Khoa Kỹ thuật Xây dựng",
+    "MANGANH": "TDI",
+    "TENCTDT": "Ngành Kỹ thuật Trắc địa - Bản đồ",
+    "NAMAPDUNG": 2020,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "XD",
+    "TENDONVI": "Khoa Kỹ thuật Xây dựng",
+    "MANGANH": "XGT",
+    "TENCTDT": "Ngành Kỹ thuật Xây dựng Công trình Giao thông",
+    "NAMAPDUNG": 2020,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "BD",
+    "TENDONVI": "Trung tâm đào tạo Bảo dưỡng công nghiệp",
+    "MANGANH": "BDG",
+    "TENCTDT": "Ngành Bảo dưỡng Công nghiệp",
+    "NAMAPDUNG": 2021,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "CK",
+    "TENDONVI": "Khoa Cơ khí",
+    "MANGANH": "CDM",
+    "TENCTDT": "Ngành Công nghệ Dệt May",
+    "NAMAPDUNG": 2021,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "CK",
+    "TENDONVI": "Khoa Cơ khí",
+    "MANGANH": "CK1",
+    "TENCTDT": "Ngành Kỹ thuật Cơ khí",
+    "NAMAPDUNG": 2021,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "CK",
+    "TENDONVI": "Khoa Cơ khí",
+    "MANGANH": "COD",
+    "TENCTDT": "Ngành Kỹ thuật Cơ điện tử",
+    "NAMAPDUNG": 2021,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "CK",
+    "TENDONVI": "Khoa Cơ khí",
+    "MANGANH": "DET",
+    "TENCTDT": "Ngành Kỹ thuật Dệt",
+    "NAMAPDUNG": 2021,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "CK",
+    "TENDONVI": "Khoa Cơ khí",
+    "MANGANH": "KTH",
+    "TENCTDT": "Ngành Kỹ thuật Hệ thống Công nghiệp",
+    "NAMAPDUNG": 2021,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "CK",
+    "TENDONVI": "Khoa Cơ khí",
+    "MANGANH": "LQC",
+    "TENCTDT": "Ngành Logistics và Quản lý chuỗi Cung ứng",
+    "NAMAPDUNG": 2021,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "CK",
+    "TENDONVI": "Khoa Cơ khí",
+    "MANGANH": "NL1",
+    "TENCTDT": "Ngành Kỹ thuật Nhiệt",
+    "NAMAPDUNG": 2021,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "DC",
+    "TENDONVI": "Khoa Kỹ thuật Địa chất và Dầu khí",
+    "MANGANH": "DC1",
+    "TENCTDT": "Ngành Kỹ thuật Địa chất",
+    "NAMAPDUNG": 2021,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "DC",
+    "TENDONVI": "Khoa Kỹ thuật Địa chất và Dầu khí",
+    "MANGANH": "DK1",
+    "TENCTDT": "Ngành Kỹ thuật Dầu khí",
+    "NAMAPDUNG": 2021,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "DD",
+    "TENDONVI": "Khoa Điện - Điện tử",
+    "MANGANH": "DTH",
+    "TENCTDT": "Ngành Kỹ thuật Điều khiển và Tự động hóa",
+    "NAMAPDUNG": 2021,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "DD",
+    "TENDONVI": "Khoa Điện - Điện tử",
+    "MANGANH": "DVT",
+    "TENCTDT": "Ngành Kỹ thuật Điện tử - Viễn thông",
+    "NAMAPDUNG": 2021,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "DD",
+    "TENDONVI": "Khoa Điện - Điện tử",
+    "MANGANH": "KDI",
+    "TENCTDT": "Ngành Kỹ thuật Điện",
+    "NAMAPDUNG": 2021,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "DD",
+    "TENDONVI": "Khoa Điện - Điện tử",
+    "MANGANH": "DTVTKTD",
+    "TENCTDT": "Song ngành Kỹ thuật Điện tử - Viễn thông - Kỹ thuật Điện",
+    "NAMAPDUNG": 2021,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "DD",
+    "TENDONVI": "Khoa Điện - Điện tử",
+    "MANGANH": "DTVTTDH",
+    "TENCTDT": "Song ngành Kỹ thuật Điện tử-Viễn thông - Kỹ thuật Điều khiển & Tự động hóa",
+    "NAMAPDUNG": 2021,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "DD",
+    "TENDONVI": "Khoa Điện - Điện tử",
+    "MANGANH": "KTDDTVT",
+    "TENCTDT": "Song ngành Kỹ thuật Điện - Kỹ thuật Điện tử - Viễn thông",
+    "NAMAPDUNG": 2021,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "DD",
+    "TENDONVI": "Khoa Điện - Điện tử",
+    "MANGANH": "KTDTDH",
+    "TENCTDT": "Song ngành Kỹ thuật Điện - Kỹ thuật Điều khiển và Tự động hóa",
+    "NAMAPDUNG": 2021,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "DD",
+    "TENDONVI": "Khoa Điện - Điện tử",
+    "MANGANH": "TDHDTVT",
+    "TENCTDT": "Song ngành Kỹ thuật Điều khiển & Tự động hóa - Kỹ thuật Điện tử-Viễn thông",
+    "NAMAPDUNG": 2021,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "DD",
+    "TENDONVI": "Khoa Điện - Điện tử",
+    "MANGANH": "TDHKTD",
+    "TENCTDT": "Song ngành Kỹ thuật Điều khiển & Tự động hóa - Kỹ thuật Điện",
+    "NAMAPDUNG": 2021,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "GT",
+    "TENDONVI": "Khoa Kỹ thuật Giao thông",
+    "MANGANH": "HKG",
+    "TENCTDT": "Ngành Kỹ thuật Hàng không",
+    "NAMAPDUNG": 2021,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "GT",
+    "TENDONVI": "Khoa Kỹ thuật Giao thông",
+    "MANGANH": "KTO",
+    "TENCTDT": "Ngành Kỹ thuật Ô tô",
+    "NAMAPDUNG": 2021,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "GT",
+    "TENDONVI": "Khoa Kỹ thuật Giao thông",
+    "MANGANH": "TAU",
+    "TENCTDT": "Ngành Kỹ thuật Tàu thủy",
+    "NAMAPDUNG": 2021,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "GT",
+    "TENDONVI": "Khoa Kỹ thuật Giao thông",
+    "MANGANH": "HKGTAU",
+    "TENCTDT": "Song ngành Kỹ thuật Tàu thủy - Hàng không",
+    "NAMAPDUNG": 2021,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "HC",
+    "TENDONVI": "Khoa Kỹ thuật Hóa học",
+    "MANGANH": "CSH",
+    "TENCTDT": "Ngành Công nghệ Sinh học",
+    "NAMAPDUNG": 2021,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "HC",
+    "TENDONVI": "Khoa Kỹ thuật Hóa học",
+    "MANGANH": "HC1",
+    "TENCTDT": "Ngành Kỹ thuật Hóa học",
+    "NAMAPDUNG": 2021,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "HC",
+    "TENDONVI": "Khoa Kỹ thuật Hóa học",
+    "MANGANH": "HTP",
+    "TENCTDT": "Ngành Công nghệ Thực phẩm",
+    "NAMAPDUNG": 2021,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "MO",
+    "TENDONVI": "Khoa Môi trường và Tài nguyên",
+    "MANGANH": "KMT",
+    "TENCTDT": "Ngành Kỹ thuật Môi trường",
+    "NAMAPDUNG": 2021,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "MO",
+    "TENDONVI": "Khoa Môi trường và Tài nguyên",
+    "MANGANH": "QM1",
+    "TENCTDT": "Ngành Quản lý Tài nguyên và Môi trường",
+    "NAMAPDUNG": 2021,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "MT",
+    "TENDONVI": "Khoa Khoa học và Kỹ thuật Máy tính",
+    "MANGANH": "KHM",
+    "TENCTDT": "Ngành Khoa học Máy tính",
+    "NAMAPDUNG": 2021,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "MT",
+    "TENDONVI": "Khoa Khoa học và Kỹ thuật Máy tính",
+    "MANGANH": "KTM",
+    "TENCTDT": "Ngành Kỹ thuật Máy tính",
+    "NAMAPDUNG": 2021,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "MT",
+    "TENDONVI": "Khoa Khoa học và Kỹ thuật Máy tính",
+    "MANGANH": "CNTT",
+    "TENCTDT": "Ngành Công nghệ thông tin (Đào tạo từ xa)",
+    "NAMAPDUNG": 2021,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "QL",
+    "TENDONVI": "Khoa Quản lý Công nghiệp",
+    "MANGANH": "QCN",
+    "TENCTDT": "Ngành Quản lý Công nghiệp",
+    "NAMAPDUNG": 2021,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "UD",
+    "TENDONVI": "Khoa Khoa học Ứng dụng",
+    "MANGANH": "CKT",
+    "TENCTDT": "Ngành Cơ Kỹ thuật",
+    "NAMAPDUNG": 2021,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "UD",
+    "TENDONVI": "Khoa Khoa học Ứng dụng",
+    "MANGANH": "VLY",
+    "TENCTDT": "Ngành Vật lý Kỹ thuật",
+    "NAMAPDUNG": 2021,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "VL",
+    "TENDONVI": "Khoa Công nghệ Vật Liệu",
+    "MANGANH": "VL1",
+    "TENCTDT": "Ngành Kỹ thuật Vật liệu",
+    "NAMAPDUNG": 2021,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "XD",
+    "TENDONVI": "Khoa Kỹ thuật Xây dựng",
+    "MANGANH": "COS",
+    "TENCTDT": "Ngành Kỹ thuật Cơ sở Hạ tầng",
+    "NAMAPDUNG": 2021,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "XD",
+    "TENDONVI": "Khoa Kỹ thuật Xây dựng",
+    "MANGANH": "CVX",
+    "TENCTDT": "Ngành Công nghệ Kỹ thuật Vật liệu Xây dựng",
+    "NAMAPDUNG": 2021,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "XD",
+    "TENDONVI": "Khoa Kỹ thuật Xây dựng",
+    "MANGANH": "KTR",
+    "TENCTDT": "Ngành Kiến trúc",
+    "NAMAPDUNG": 2021,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "XD",
+    "TENDONVI": "Khoa Kỹ thuật Xây dựng",
+    "MANGANH": "KTX",
+    "TENCTDT": "Ngành Kỹ thuật Xây dựng",
+    "NAMAPDUNG": 2021,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "XD",
+    "TENDONVI": "Khoa Kỹ thuật Xây dựng",
+    "MANGANH": "KXB",
+    "TENCTDT": "Ngành Kỹ thuật Xây dựng Công trình Biển",
+    "NAMAPDUNG": 2021,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "XD",
+    "TENDONVI": "Khoa Kỹ thuật Xây dựng",
+    "MANGANH": "KXT",
+    "TENCTDT": "Ngành Kỹ thuật Xây dựng Công trình Thủy",
+    "NAMAPDUNG": 2021,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "XD",
+    "TENDONVI": "Khoa Kỹ thuật Xây dựng",
+    "MANGANH": "TDI",
+    "TENCTDT": "Ngành Kỹ thuật Trắc địa - Bản đồ",
+    "NAMAPDUNG": 2021,
+    "LINK": ""
+  },
+  {
+    "MADONVI": "XD",
+    "TENDONVI": "Khoa Kỹ thuật Xây dựng",
+    "MANGANH": "XGT",
+    "TENCTDT": "Ngành Kỹ thuật Xây dựng Công trình Giao thông",
+    "NAMAPDUNG": 2021,
+    "LINK": ""
+  }
+]
+}

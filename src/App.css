@@ -3,18 +3,19 @@
 }
 
 .App-logo {
-  height: 40vmin;
-  pointer-events: none;
+  height: 10vmin;
+  pointer-events: auto;
+  border-radius: 100px;
 }
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
-    animation: App-logo-spin infinite 20s linear;
+    animation: App-logo-spin infinite 10s linear;
   }
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: #000000;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -35,4 +36,17 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+p {
+  width: 80%;  
+}
+
+.main-container {
+  background-image: url("./markus-spiske-hvSr_CVecVI-unsplash.jpg");
+  background-color: #000000; /* Used if the image is unavailable */
+  height: auto; /* You must set a specified height */
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size:cover; /* Resize the background image to cover the entire container */
 }

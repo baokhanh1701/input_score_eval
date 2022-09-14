@@ -1,0 +1,131 @@
+/*Alignment*/
+
+.image-des {
+    border-radius: 20px 20px;
+}
+
+.align-center {
+    display: block;
+    position: relative;
+}
+
+.align-center-all {
+    margin: auto;
+}
+
+.align-center-col {
+    margin-top:auto;
+    margin-bottom: auto;
+}
+
+.align-center-row {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.align-left {
+    margin-right: auto;
+}
+
+.align-right {
+    margin-left: auto;
+}
+
+.align-end {
+    margin-top: auto;
+}
+
+/*Length*/
+.width-full {
+    width: 100%;
+}
+
+.width-half {
+    width: 50%;
+}
+
+.height-full {
+    height: 100%;
+}
+
+.height-half {
+    height: 50%;
+}
+
+/*Padding and margin*/
+.padding-sm {
+    padding: 1em;
+}
+
+.padding-md {
+    padding: 2em;
+}
+
+
+.padding-row {
+    padding-left: 1em;
+    padding-right: 1em;
+}
+
+.padding-row-md {
+    padding-left: 2em;
+    padding-right: 2em;
+}
+
+.padding-row-lg {
+    padding-left: 3em;
+    padding-right: 3em;
+}
+
+.padding-col-md {
+    padding: 0 2em;
+}
+
+.padding-col {
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+
+
+.padding-left {
+    padding-left: 1em;
+}
+
+.padding-left-md {
+    padding-left: 1em;
+}
+
+.padding-right {
+    padding-right: 1em;
+}
+
+.padding-top {
+    padding-top: 1em;
+}
+
+
+.margin-sm {
+    margin: 1em;
+}
+
+.margin-md {
+    margin: 2em;
+}
+
+.margin-row {
+    margin-left: 1em;
+    margin-right: 1em;
+}
+
+.margin-col {
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+.margin-bottom {
+    margin: 0 0 1em 0;
+}
+
+.margin-none {
+    margin:0 ;
+}

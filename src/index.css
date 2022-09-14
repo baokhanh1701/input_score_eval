@@ -11,3 +11,38 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+#subject[type=text] {
+  width: 80%;
+  padding: 10px 10px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: 2px solid #043850;
+  border-radius: 4px;  
+}
+
+#subject_id[type=text] {
+  width: 80%;
+  padding: 10px 10px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: 2px solid #043850;
+  border-radius: 4px;  
+}
+
+#score[type=number] {
+  width: 80%;
+  padding: 10px 10px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: 2px solid #043850;
+  border-radius: 4px;  
+}
+
+.form_container{
+  width: 60%;
+  padding: 10px 10px;
+  border: 1px solid white;
+  border-radius: 10px;
+}
+
