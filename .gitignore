@@ -24,3 +24,5 @@ yarn-error.log*
 
 /ctdt
 /api
+
+node_modules
