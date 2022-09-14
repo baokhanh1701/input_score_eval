@@ -104,7 +104,11 @@ const FormJsx = () => {
 
   console.log(counter, "subjects added to list");
 
-  const subjectToShow = searchSubject.length ? subject_options.filter((option) => option.value.match(new RegExp('^' + searchSubject, 'i'))) : subject_options.slice(0, 5);
+  const subjectToShow = searchSubject.length
+    ? subject_options.filter((option) =>
+        option.value.match(new RegExp("^" + searchSubject, "i"))
+      )
+    : subject_options.slice(0, 5);
 
   return (
     <>
@@ -184,7 +188,9 @@ const FormJsx = () => {
         <ul style={{ display: display }}>
           {subjectToShow.map((subject) => (
             <li key={subject.value}>
-              <button onClick={() => setSearchSubject(subject.label)}>{subject.label}</button>
+              <button onClick={() => setSearchSubject(subject.label)}>
+                {subject.label}
+              </button>
             </li>
           ))}
         </ul>
