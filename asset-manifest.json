@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/input_score_eval/static/css/main.409b827c.css",
+    "main.js": "/input_score_eval/static/js/main.621f608e.js",
+    "static/js/787.40b8398f.chunk.js": "/input_score_eval/static/js/787.40b8398f.chunk.js",
+    "static/media/markus-spiske-hvSr_CVecVI-unsplash.jpg": "/input_score_eval/static/media/markus-spiske-hvSr_CVecVI-unsplash.aa0fe29c940868f8b03a.jpg",
+    "static/media/logo.png": "/input_score_eval/static/media/logo.3d6d542eb5c8d200a3c3.png",
+    "index.html": "/input_score_eval/index.html",
+    "main.409b827c.css.map": "/input_score_eval/static/css/main.409b827c.css.map",
+    "main.621f608e.js.map": "/input_score_eval/static/js/main.621f608e.js.map",
+    "787.40b8398f.chunk.js.map": "/input_score_eval/static/js/787.40b8398f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.409b827c.css",
+    "static/js/main.621f608e.js"
+  ]
+}
