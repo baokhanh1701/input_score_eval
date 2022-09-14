@@ -17,15 +17,13 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "start": "react-scripts start",
+    "dev": "react-scripts start",
+    "start": "serve -s build",
     "build": "react-scripts build",
-    "test": "react-scripts test",
+    "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
-    "server1": "json-server -p3001 --watch cautrucmonhoc.json",
-    "server2": "json-server -p3002 --watch nganh.json",
-    "server3": "json-server -p3003 --watch result.json",
-    "dev": "concurrently --kill-others \"npm run server1\" \"npm run server2\" \"npm run server3\" \"react-scripts start\""
-  },
+    "heroku-postbuild": "npm run build"
+    },
   "eslintConfig": {
     "extends": [
       "react-app",
