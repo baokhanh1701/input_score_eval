@@ -1,8 +1,8 @@
 import logo from "./logo.png";
 import "./App.css";
-import FormJsx from "./elements/form.js";
-import Result from "./elements/result.js";
-import Intro from "./elements/intro.js";
+import FormJsx from "./components/elements/form.js";
+import Result from "./components/elements/result.js";
+import Intro from "./components/elements/intro.js";
 import { BrowserRouter } from "react-router-dom";
 
 function App() {

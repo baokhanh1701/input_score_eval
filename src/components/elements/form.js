@@ -1,18 +1,14 @@
 import React, { useState, useEffect, useRef } from "react";
-
-import "../App.css";
-import "../css/color.css";
-import "../css/style.css";
-import "../css/flex.css";
-import "../css/layout.css";
-
+import "../../App.css";
+import "../../css/color.css";
+import "../../css/style.css";
+import "../../css/flex.css";
+import "../../css/layout.css";
 import Select from "react-select";
-
 import SelectedOp from "./selected.js";
 
 const FormJsx = () => {
   const [list, setList] = useState([{}]);
-
   const [counter, setCounter] = useState(0);
   const [searchSubject, setSearchSubject] = useState("");
   const [display, setDisplay] = useState("hidden");
@@ -145,6 +141,7 @@ const FormJsx = () => {
               return { ...prev, nganh: x.value };
             });
           }}
+          width='50px'
           options={nganh_options}
           loadOptions={nganh_options}
         />

@@ -1,15 +1,15 @@
 import React from "react";
 
-import "../App.css";
-import "../css/color.css";
-import "../css/style.css";
-import "../css/flex.css";
-import "../css/layout.css";
+import "../../App.css";
+import "../../css/color.css";
+import "../../css/style.css";
+import "../../css/flex.css";
+import "../../css/layout.css";
 
 const Intro = () => {
   return (
     <>
-      <h1> COURSE RECOMMENDER</h1>
+      <h1>COURSE RECOMMENDER</h1>
       <p className="text-center">
         Dưới đây là thông tin nhập của môn học và điểm tổng kết của bạn, Course Recommender sẽ dự đoán môn học tiếp theo bạn nên đăng kí vào học kì kế tiếp.
         <br />

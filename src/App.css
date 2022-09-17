@@ -43,7 +43,7 @@ p {
 }
 
 .main-container {
-  background-image: url("./markus-spiske-hvSr_CVecVI-unsplash.jpg");
+  background-image: url("./assets/img/markus-spiske-hvSr_CVecVI-unsplash.jpg");
   background-color: #000000; /* Used if the image is unavailable */
   height: auto; /* You must set a specified height */
   background-position: center; /* Center the image */

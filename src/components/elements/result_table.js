@@ -1,9 +1,9 @@
 import React from "react";
-import "../index.css";
-import "../App.css";
-import "../css/color.css";
-import "../css/flex.css";
-import "../css/style.css";
+import "../../App.css";
+import "../../css/color.css";
+import "../../css/style.css";
+import "../../css/flex.css";
+import "../../css/layout.css";
 
 const RTable = ({ output }) => {
   return (
